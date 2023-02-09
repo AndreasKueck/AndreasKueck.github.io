@@ -1,0 +1,9 @@
+node_modules
+
+*#
+*~
+sync.sh
+mod_build.sh
+
+frontend_
+tmp
